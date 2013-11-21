@@ -1,0 +1,36 @@
+{
+    "name": "SmallCocosUtils",
+    "description": "Utils for cocos2d-html5",
+    "version": "0.1.0",
+    "author": {
+        "name": "SmallAiTT",
+        "email": "536762164@qq.com"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": [
+        "CocosUtils",
+        "cocos",
+        "utils",
+        "web",
+        "game",
+        "html5",
+        "app",
+        "api"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SmallAiTT/SmallCocosUtils.git"
+    },
+    "main": "index",
+    "bin": {
+        "cocos": "./bin/cocos"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "_id": "SmallCocosUtils@0.1.0",
+    "_from": "SmallCocosUtils@*"
+}
